@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files (large)
+*.txt
+!README*.txt
+!LICENSE
+!CONTRIBUTING.md
+!CHANGELOG.md
+
+# Corpora (large)
+0.1 الإصدار/المدونة/
+0.2 الإصدار/المدونة/
+النتائج/
+
+# Output files
+*.xlsx
+*.xls
+
+# Logs
+*.log
+
